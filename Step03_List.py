@@ -1,1 +1,1 @@
-names = ['Chihiro', 'JunHan', "Shinichi"]
+names=['Chihiro', 'JunHan', "Shinichi"]
