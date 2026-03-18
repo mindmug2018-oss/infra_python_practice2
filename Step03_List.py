@@ -1,0 +1,1 @@
+names = ['Chihiro', 'JunHan', "Shinichi"]
