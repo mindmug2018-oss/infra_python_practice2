@@ -2,7 +2,7 @@ isMan=True
 isWoman=False
 isDifferent=True
 isRun=False
-mem = {'num'=1, 'name':'Chihiro', 'isMan':True}
+mem = {'num' = 1, 'name':'Chihiro', 'isMan':True}
 info1 = [1,'Chihiro', True]
 print(mem1['num'])
 print(mem1['isMan'])
@@ -15,5 +15,5 @@ mem1['num']=2
 mem1['name'] = 'Chihiro'
 mem1['isMan'] = False
 
-
-print('you are finished')
+mem2={'num':2, 'name': "Solution", 'isMan': False}
+print('You are finished')
