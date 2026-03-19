@@ -13,8 +13,13 @@ practice coding
 python make me hopeful
 ```
 
-```basg
+```bash
 final hour of today's practice with coding
 I hope I remember the steps
 ```
 
+```bash
+Now I am trying the other way around
+github to VScode
+I hope it works
+```
