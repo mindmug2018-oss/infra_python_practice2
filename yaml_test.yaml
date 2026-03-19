@@ -1,0 +1,9 @@
+name: Chihiro
+addr: Yuseong
+foods: 
+  - Beer
+  - Bacon
+isMan: true
+body: 
+  weight: 75
+  height: 174

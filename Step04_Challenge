@@ -13,5 +13,16 @@ result2 = range(len(names))
 for i in range (len(names)):
     print("list of index are together")
     print(i, names[1])
-    
+
 print("You are finished")
+
+mem1 = {'num':1, "name": 'Chihiro', 'addr':'Shinichiro'}
+mem2 = {'num':2, 'name': 'JunHan', 'addr':'Yuseong'}
+mem3 = {'num':3, 'name': 'Junichiro', 'addr': 'Daejeon'}
+
+members = [mem1, mem2, mem3]
+
+a = members
+b = members[0]
+c = members[0]['num']
+d = members[0]['list']
