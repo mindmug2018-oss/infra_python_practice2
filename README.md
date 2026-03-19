@@ -12,3 +12,9 @@ cd ...
 practice coding 
 python make me hopeful
 ```
+
+```basg
+final hour of today's practice with coding
+I hope I remember the steps
+```
+
