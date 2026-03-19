@@ -7,3 +7,8 @@
 git clone ....
 cd ...
 ```
+
+```bash
+practice coding 
+python make me hopeful
+```
